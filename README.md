@@ -19,10 +19,10 @@ The data for this analysis was sourced from [Source Name], covering market trend
 
 ## Folder Structure
 
-`/src`: Contains all SQL scripts and code.
-`/data`: Exported data from MySQL Workbench to create Tableau plots.
-`/docs`: Project documentation, reports and presentation.
-`/images`: Images and diagrams used in documentation.
+- `/src`: Contains all SQL scripts and code.
+- `/data`: Exported data from MySQL Workbench to create Tableau plots.
+- `/docs`: Project documentation, reports and presentation.
+- `/images`: Images and diagrams used in documentation.
 
 ## Analysis Summary
 
