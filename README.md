@@ -24,11 +24,6 @@ The data for this analysis was sourced from [Source Name], covering market trend
 - `/docs`: Project documentation, reports and presentation.
 - `/images`: Images and diagrams used in documentation.
 
-```sql
-select *
-from orderlines;
-```
-
 ## Analysis Summary
 
 Our comprehensive market analysis has revealed several key insights regarding the potential collaboration between Eniac and Brazilian markets. The findings suggest that while Brazil could present a viable market for Eniac, there are significant considerations to address:
