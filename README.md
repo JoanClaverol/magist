@@ -40,7 +40,7 @@ Given these findings, we recommend a cautious approach. It would be prudent to p
 
 ## Adding an image
 
-![Brand loyalty](images/apple_customers_loyalty.png)
+![Brand loyalty]([images/apple_customers_loyalty.png](https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## Authors
 
