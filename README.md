@@ -1,4 +1,4 @@
-# Project Title: Market Analysis for Brazilian-Spanish Collaboration
+# Market Analysis for Brazilian-Spanish Collaboration
 
 ## Overview
 
